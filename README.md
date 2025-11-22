@@ -124,10 +124,10 @@ Foram aplicados:
 
 </ul>
 
+<h3>Imagens do projeto:</h3>
+<img width="416" height="411" alt="SAOA" src="https://github.com/user-attachments/assets/4e9036b3-5979-4739-8c92-a4b27d98a2ec" />
+<img width="409" height="413" alt="MenuFinal" src="https://github.com/user-attachments/assets/be6eb407-5a85-4249-85e9-f3b32ee17730" />
+<img width="415" height="411" alt="Senha" src="https://github.com/user-attachments/assets/662acbb1-2232-4ead-ba2f-d8cb06e3a7c0" />
+
 🔗 Link Wokwi: https://wokwi.com/projects/448275563830224897
 
-
-
-
-🔗 Link repositório: [INSERIR LINK DO REPOSITÓRIO GIT AQUI]
-</p>
